@@ -50,12 +50,12 @@ import Web3MarketplaceforDigitalMovieCollectibles from '../views/Web3Marketplace
 
 const routes = [
   {
-    path: '/admin-panel-dashboard',
+    path: '/Admin-Panel-Dashboard',
     name: 'Admin-Panel-Dashboard',
     component: AdminPanelDashboard
   },
   {
-    path: '/ai-genre-transformation',
+    path: '/AI-Genre-Tranformation',
     name: 'AI-Genre-Tranformation',
     component: AIGenreTransformation
   },
@@ -265,8 +265,8 @@ const routes = [
     component: SocialMediaSharingViralContentDistribution,
   },
   {
-    path: '/User-Facing Pages',
-    name: 'User-Facing Pages',
+    path: '/User-Facing-Pages',
+    name: 'User-Facing-Pages',
     component: UserFacingPages,
   },
   {
