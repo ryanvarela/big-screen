@@ -1,0 +1,154 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1440 900" width="1440" height="900" fill="none">
+  <rect width="1440" height="900" fill="#161211"></rect>
+  <g opacity="100%">
+    <rect x="0" y="0" width="1440" height="68" fill="#222224" filter="url(#filter_dshadow_0_0_2_03030314)"></rect>
+  </g>
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="24" height="24" fill="#f7ffff" x="32" y="22" opacity="100%">
+    <path d="M496 128v16a8 8 0 0 1-8 8h-24v12c0 6.627-5.373 12-12 12H60c-6.627 0-12-5.373-12-12v-12H24a8 8 0 0 1-8-8v-16a8 8 0 0 1 4.941-7.392l232-88a7.996 7.996 0 0 1 6.118 0l232 88A8 8 0 0 1 496 128zm-24 304H40c-13.255 0-24 10.745-24 24v16a8 8 0 0 0 8 8h464a8 8 0 0 0 8-8v-16c0-13.255-10.745-24-24-24zM96 192v192H60c-6.627 0-12 5.373-12 12v20h416v-20c0-6.627-5.373-12-12-12h-36V192h-64v192h-64V192h-64v192h-64V192H96z"></path>
+  </svg>
+  <g opacity="100%" mask="url(#mask_lsngt7600d)">
+    <text x="72" y="43" font-family="Quicksand" font-size="24" fill="#f7ffff" letter-spacing="0" font-weight="700" font-style="normal">BigScreen</text>
+    <text x="72" y="75" font-family="Quicksand" font-size="24" fill="#f7ffff" letter-spacing="0" font-weight="700" font-style="normal">DAO</text>
+    <defs>
+      <mask id="mask_lsngt7600d">
+        <rect x="72" y="18" width="157" height="32" fill="white"></rect>
+      </mask>
+    </defs>
+  </g>
+  <g opacity="100%">
+    <rect filter="url(#filter_dshadow_0_0_0_03030314)" x="1283" y="16" width="125" height="36" fill="#9663dd" rx="2"></rect>
+    <text x="1294" y="39" font-family="Quicksand" font-size="14" fill="#0e0e0c" letter-spacing="0" font-weight="700" font-style="normal">
+      <tspan>Connect Wallet</tspan>
+    </text>
+  </g>
+  <g opacity="100%">
+    <text x="40" y="165.5" font-family="Quicksand" font-size="64" fill="#f7ffff" letter-spacing="0" font-weight="600" font-style="normal">
+      <tspan x="317">Decentralized Governance</tspan>
+    </text>
+  </g>
+  <g opacity="100%">
+    <text x="40" y="227.5" font-family="Quicksand" font-size="18" fill="#f7ffff" letter-spacing="0" font-weight="600" font-style="normal">
+      <tspan x="325">Engage with the BigScreen community and make impactful decisions using your BST tokens.</tspan>
+    </text>
+  </g>
+  <g opacity="100%">
+    <rect x="40.5" y="275.5" width="1359" height="271" fill="#161211" stroke="#222224" stroke-width="1" rx="2" filter="url(#filter_dshadow_0_0_0_03030314)"></rect>
+  </g>
+  <g opacity="100%">
+    <text x="72" y="337" font-family="Quicksand" font-size="32" fill="#f7ffff" letter-spacing="0" font-weight="600" font-style="normal">DAO Voting System</text>
+  </g>
+  <g opacity="100%">
+    <rect x="72.5" y="359.5" width="415" height="155" fill="#161211" stroke="#222224" stroke-width="1" rx="2" filter="url(#filter_dshadow_0_0_0_03030314)"></rect>
+  </g>
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="30" height="30" fill="#f7ffff" x="96" y="386" opacity="100%">
+    <path d="M488 64h-8v20c0 6.6-5.4 12-12 12h-40c-6.6 0-12-5.4-12-12V64H96v20c0 6.6-5.4 12-12 12H44c-6.6 0-12-5.4-12-12V64h-8C10.7 64 0 74.7 0 88v336c0 13.3 10.7 24 24 24h8v-20c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v20h320v-20c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v20h8c13.3 0 24-10.7 24-24V88c0-13.3-10.7-24-24-24zM96 372c0 6.6-5.4 12-12 12H44c-6.6 0-12-5.4-12-12v-40c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40zm0-96c0 6.6-5.4 12-12 12H44c-6.6 0-12-5.4-12-12v-40c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40zm0-96c0 6.6-5.4 12-12 12H44c-6.6 0-12-5.4-12-12v-40c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40zm272 208c0 6.6-5.4 12-12 12H156c-6.6 0-12-5.4-12-12v-96c0-6.6 5.4-12 12-12h200c6.6 0 12 5.4 12 12v96zm0-168c0 6.6-5.4 12-12 12H156c-6.6 0-12-5.4-12-12v-96c0-6.6 5.4-12 12-12h200c6.6 0 12 5.4 12 12v96zm112 152c0 6.6-5.4 12-12 12h-40c-6.6 0-12-5.4-12-12v-40c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40zm0-96c0 6.6-5.4 12-12 12h-40c-6.6 0-12-5.4-12-12v-40c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40zm0-96c0 6.6-5.4 12-12 12h-40c-6.6 0-12-5.4-12-12v-40c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40z"></path>
+  </svg>
+  <g opacity="100%" mask="url(#mask_elmebi8ig)">
+    <text x="142" y="408.5" font-family="Quicksand" font-size="20" fill="#f7ffff" letter-spacing="0" font-weight="600" font-style="normal">New Movie Additions</text>
+    <text x="142" y="436.5" font-family="Quicksand" font-size="20" fill="#f7ffff" letter-spacing="0" font-weight="600" font-style="normal">🎬</text>
+    <defs>
+      <mask id="mask_elmebi8ig">
+        <rect x="142" y="387" width="211" height="28" fill="white"></rect>
+      </mask>
+    </defs>
+  </g>
+  <g opacity="100%">
+    <text x="96" y="453" font-family="Quicksand" font-size="16" fill="#f7ffff" letter-spacing="0" font-weight="normal" font-style="normal">Vote Weight: 100 BST</text>
+  </g>
+  <g opacity="100%">
+    <text x="96" y="485" font-family="Quicksand" font-size="16" fill="#f7ffff" letter-spacing="0" font-weight="normal" font-style="normal">Voting Period: 7 Days</text>
+  </g>
+  <g opacity="100%">
+    <rect x="512.5" y="359.5" width="415" height="155" fill="#161211" stroke="#222224" stroke-width="1" rx="2" filter="url(#filter_dshadow_0_0_0_03030314)"></rect>
+  </g>
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="30" height="30" fill="#f7ffff" x="536" y="386" opacity="100%">
+    <path d="M501.1 395.7L384 278.6c-23.1-23.1-57.6-27.6-85.4-13.9L192 158.1V96L64 0 0 64l96 128h62.1l106.6 106.6c-13.6 27.8-9.2 62.3 13.9 85.4l117.1 117.1c14.6 14.6 38.2 14.6 52.7 0l52.7-52.7c14.5-14.6 14.5-38.2 0-52.7zM331.7 225c28.3 0 54.9 11 74.9 31l19.4 19.4c15.8-6.9 30.8-16.5 43.8-29.5 37.1-37.1 49.7-89.3 37.9-136.7-2.2-9-13.5-12.1-20.1-5.5l-74.4 74.4-67.9-11.3L334 98.9l74.4-74.4c6.6-6.6 3.4-17.9-5.7-20.2-47.4-11.7-99.6.9-136.6 37.9-28.5 28.5-41.9 66.1-41.2 103.6l82.1 82.1c8.1-1.9 16.5-2.9 24.7-2.9zm-103.9 82l-56.7-56.7L18.7 402.8c-25 25-25 65.5 0 90.5s65.5 25 90.5 0l123.6-123.6c-7.6-19.9-9.9-41.6-5-62.7zM64 472c-13.2 0-24-10.8-24-24 0-13.3 10.7-24 24-24s24 10.7 24 24c0 13.2-10.7 24-24 24z"></path>
+  </svg>
+  <g opacity="100%">
+    <text x="582" y="408.5" font-family="Quicksand" font-size="20" fill="#f7ffff" letter-spacing="0" font-weight="600" font-style="normal">Platform Feature Improvements 🔧</text>
+  </g>
+  <g opacity="100%">
+    <text x="536" y="453" font-family="Quicksand" font-size="16" fill="#f7ffff" letter-spacing="0" font-weight="normal" font-style="normal">Vote Weight: 500 BST</text>
+  </g>
+  <g opacity="100%">
+    <text x="536" y="485" font-family="Quicksand" font-size="16" fill="#f7ffff" letter-spacing="0" font-weight="normal" font-style="normal">Voting Period: 14 Days</text>
+  </g>
+  <g opacity="100%">
+    <rect x="952.5" y="359.5" width="415" height="155" fill="#161211" stroke="#222224" stroke-width="1" rx="2" filter="url(#filter_dshadow_0_0_0_03030314)"></rect>
+  </g>
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="30" height="30" fill="#f7ffff" x="976" y="386" opacity="100%">
+    <path d="M0 405.3V448c0 35.3 86 64 192 64s192-28.7 192-64v-42.7C342.7 434.4 267.2 448 192 448S41.3 434.4 0 405.3zM320 128c106 0 192-28.7 192-64S426 0 320 0 128 28.7 128 64s86 64 192 64zM0 300.4V352c0 35.3 86 64 192 64s192-28.7 192-64v-51.6c-41.3 34-116.9 51.6-192 51.6S41.3 334.4 0 300.4zm416 11c57.3-11.1 96-31.7 96-55.4v-42.7c-23.2 16.4-57.3 27.6-96 34.5v63.6zM192 160C86 160 0 195.8 0 240s86 80 192 80 192-35.8 192-80-86-80-192-80zm219.3 56.3c60-10.8 100.7-32 100.7-56.3v-42.7c-35.5 25.1-96.5 38.6-160.7 41.8 29.5 14.3 51.2 33.5 60 57.2z"></path>
+  </svg>
+  <g opacity="100%" mask="url(#mask_x7y4ozhwud)">
+    <text x="1022" y="408.5" font-family="Quicksand" font-size="20" fill="#f7ffff" letter-spacing="0" font-weight="600" font-style="normal">NFT Licensing &amp; Profit Sharing</text>
+    <text x="1022" y="436.5" font-family="Quicksand" font-size="20" fill="#f7ffff" letter-spacing="0" font-weight="600" font-style="normal">💰</text>
+    <defs>
+      <mask id="mask_x7y4ozhwud">
+        <rect x="1022" y="387" width="291" height="28" fill="white"></rect>
+      </mask>
+    </defs>
+  </g>
+  <g opacity="100%">
+    <text x="976" y="453" font-family="Quicksand" font-size="16" fill="#f7ffff" letter-spacing="0" font-weight="normal" font-style="normal">Vote Weight: 1,000 BST</text>
+  </g>
+  <g opacity="100%">
+    <text x="976" y="485" font-family="Quicksand" font-size="16" fill="#f7ffff" letter-spacing="0" font-weight="normal" font-style="normal">Voting Period: 30 Days</text>
+  </g>
+  <g opacity="100%">
+    <rect x="40.5" y="587.5" width="1359" height="191" fill="#161211" stroke="#222224" stroke-width="1" rx="2" filter="url(#filter_dshadow_0_0_0_03030314)"></rect>
+  </g>
+  <g opacity="100%">
+    <text x="72" y="649" font-family="Quicksand" font-size="32" fill="#f7ffff" letter-spacing="0" font-weight="600" font-style="normal">Solidity Smart Contract for DAO Voting</text>
+  </g>
+  <g opacity="100%" mask="url(#mask_cji51j1pq)">
+    <text x="72" y="689" font-family="Quicksand" font-size="16" fill="#f7ffff" letter-spacing="0" font-weight="normal" font-style="normal">Integrate with our Solidity-based smart contract to ensure secure and transparent voting processes. Engage with the blockchain technology that powers our decentralized</text>
+    <text x="72" y="713" font-family="Quicksand" font-size="16" fill="#f7ffff" letter-spacing="0" font-weight="normal" font-style="normal">governance.</text>
+    <defs>
+      <mask id="mask_cji51j1pq">
+        <rect x="72" y="671" width="1296" height="24" fill="white"></rect>
+      </mask>
+    </defs>
+  </g>
+  <g opacity="100%">
+    <rect filter="url(#filter_dshadow_0_0_0_03030314)" x="72" y="711" width="118" height="36" fill="#9663dd" rx="2"></rect>
+    <text x="92" y="734" font-family="Quicksand" font-size="14" fill="#0e0e0c" letter-spacing="0" font-weight="700" font-style="normal">
+      <tspan>Learn More</tspan>
+    </text>
+  </g>
+  <defs>
+    <filter id="filter_dshadow_0_0_2_03030314" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-opacity="0" result="bg-fix"></feFlood>
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="alpha"></feColorMatrix>
+      <feOffset dx="0" dy="2"></feOffset>
+      <feGaussianBlur stdDeviation="0"></feGaussianBlur>
+      <feComposite in2="alpha" operator="out"></feComposite>
+      <feColorMatrix type="matrix" values="0 0 0 0 0.011764705882352941 0 0 0 0 0.011764705882352941 0 0 0 0 0.011764705882352941 0 0 0 0.08 0"></feColorMatrix>
+      <feBlend mode="normal" in2="bg-fix" result="bg-fix-filter_dshadow_0_0_2_03030314"></feBlend>
+      <feBlend in="SourceGraphic" in2="bg-fix-filter_dshadow_0_0_2_03030314" result="shape"></feBlend>
+    </filter>
+    <filter id="filter_dshadow_0_0_0_000000639c" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-opacity="0" result="bg-fix"></feFlood>
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="alpha"></feColorMatrix>
+      <feOffset dx="0" dy="0"></feOffset>
+      <feGaussianBlur stdDeviation="0"></feGaussianBlur>
+      <feComposite in2="alpha" operator="out"></feComposite>
+      <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 100 0"></feColorMatrix>
+      <feBlend mode="normal" in2="bg-fix" result="bg-fix-filter_dshadow_0_0_0_000000639c"></feBlend>
+      <feBlend in="SourceGraphic" in2="bg-fix-filter_dshadow_0_0_0_000000639c" result="shape"></feBlend>
+    </filter>
+    <filter id="filter_dshadow_0_0_0_03030314" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-opacity="0" result="bg-fix"></feFlood>
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="alpha"></feColorMatrix>
+      <feOffset dx="0" dy="0"></feOffset>
+      <feGaussianBlur stdDeviation="0"></feGaussianBlur>
+      <feComposite in2="alpha" operator="out"></feComposite>
+      <feColorMatrix type="matrix" values="0 0 0 0 0.011764705882352941 0 0 0 0 0.011764705882352941 0 0 0 0 0.011764705882352941 0 0 0 0.08 0"></feColorMatrix>
+      <feBlend mode="normal" in2="bg-fix" result="bg-fix-filter_dshadow_0_0_0_03030314"></feBlend>
+      <feBlend in="SourceGraphic" in2="bg-fix-filter_dshadow_0_0_0_03030314" result="shape"></feBlend>
+    </filter>
+    <style id="google">@import url(https://fonts.googleapis.com/css2?family=Quicksand:ital,wght@0,300;0,400;0,500;0,600;0,700&amp;display=swap);
+</style>
+    <style id="brand"></style>
+  </defs>
+</svg>
