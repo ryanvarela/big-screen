@@ -13,10 +13,10 @@
       <router-link to="/Community-Social-Features" style="color: white;">Community-Social-Features</router-link><br>
       <router-link to="/Creator-Dashboard" style="color: white;">Creator-Dashboard</router-link><br>
       <router-link to="/Creator-Monetization-Pages" style="color: white;">Creator-Monetization-Pages</router-link><br>
-      <router-link to="/Admin-Panel-Dashboard" style="color: white;">Admin Panel Dashboard</router-link><br>
-      <router-link to="/Admin-Panel-Dashboard" style="color: white;">Admin Panel Dashboard</router-link><br>
-      <router-link to="/Admin-Panel-Dashboard" style="color: white;">Admin Panel Dashboard</router-link><br>
-      <router-link to="/Admin-Panel-Dashboard" style="color: white;">Admin Panel Dashboard</router-link><br>
+      <router-link to="/Cross-Chain-Compatibility-Overview" style="color: white;">Cross-Chain-Compatibility-Overview</router-link><br>
+      <router-link to="/Decentralized-Ad-Network-Tokenized-Sponsorships" style="color: white;">Decentralized-Ad-Network-Tokenized-Sponsorships</router-link><br>
+      <router-link to="/Decentralized-Film-Funding" style="color: white;">Decentralized-Film-Funding</router-link><br>
+      <router-link to="/Decentralized-Governance-DAO-Voting-System" style="color: white;">Decentralized-Governance-DAO-Voting-System</router-link><br>
       <router-link to="/Admin-Panel-Dashboard" style="color: white;">Admin Panel Dashboard</router-link><br>
       <router-link to="/Admin-Panel-Dashboard" style="color: white;">Admin Panel Dashboard</router-link><br>
       <router-link to="/Admin-Panel-Dashboard" style="color: white;">Admin Panel Dashboard</router-link><br>
