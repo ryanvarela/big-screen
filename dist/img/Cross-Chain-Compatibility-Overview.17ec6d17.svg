@@ -1,0 +1,148 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1440 900" width="1440" height="900" fill="none">
+  <rect width="1440" height="900" fill="#161211"></rect>
+  <g opacity="100%">
+    <rect x="0" y="0" width="1440" height="70" fill="#222224" filter="url(#filter_dshadow_0_0_2_03030314)"></rect>
+  </g>
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" width="36" height="36" fill="#f7ffff" x="25" y="17" opacity="100%">
+    <path d="M640 264v-16c0-8.84-7.16-16-16-16H344v-40h72c17.67 0 32-14.33 32-32V32c0-17.67-14.33-32-32-32H224c-17.67 0-32 14.33-32 32v128c0 17.67 14.33 32 32 32h72v40H16c-8.84 0-16 7.16-16 16v16c0 8.84 7.16 16 16 16h104v40H64c-17.67 0-32 14.33-32 32v128c0 17.67 14.33 32 32 32h160c17.67 0 32-14.33 32-32V352c0-17.67-14.33-32-32-32h-56v-40h304v40h-56c-17.67 0-32 14.33-32 32v128c0 17.67 14.33 32 32 32h160c17.67 0 32-14.33 32-32V352c0-17.67-14.33-32-32-32h-56v-40h104c8.84 0 16-7.16 16-16zM256 128V64h128v64H256zm-64 320H96v-64h96v64zm352 0h-96v-64h96v64z"></path>
+  </svg>
+  <g opacity="100%" mask="url(#mask_9q3adajbqy)">
+    <text x="73" y="42.5" font-family="Quicksand" font-size="20" fill="#f7ffff" letter-spacing="0" font-weight="700" font-style="normal">Blockchain</text>
+    <text x="73" y="70.5" font-family="Quicksand" font-size="20" fill="#f7ffff" letter-spacing="0" font-weight="700" font-style="normal">Interoperability</text>
+    <defs>
+      <mask id="mask_9q3adajbqy">
+        <rect x="73" y="21" width="241" height="28" fill="white"></rect>
+      </mask>
+    </defs>
+  </g>
+  <g opacity="100%" mask="url(#mask_2bwwoq1dwu)">
+    <text x="1219" y="41" font-family="Quicksand" font-size="16" fill="#f7ffff" letter-spacing="0" font-weight="normal" font-style="normal">Hom</text>
+    <text x="1219" y="65" font-family="Quicksand" font-size="16" fill="#f7ffff" letter-spacing="0" font-weight="normal" font-style="normal">e</text>
+    <defs>
+      <mask id="mask_2bwwoq1dwu">
+        <rect x="1219" y="23" width="41" height="24" fill="white"></rect>
+      </mask>
+    </defs>
+  </g>
+  <g opacity="100%" mask="url(#mask_t795j4te0n)">
+    <text x="1284" y="41" font-family="Quicksand" font-size="16" fill="#f7ffff" letter-spacing="0" font-weight="normal" font-style="normal">Service</text>
+    <text x="1284" y="65" font-family="Quicksand" font-size="16" fill="#f7ffff" letter-spacing="0" font-weight="normal" font-style="normal">s</text>
+    <defs>
+      <mask id="mask_t795j4te0n">
+        <rect x="1284" y="23" width="56" height="24" fill="white"></rect>
+      </mask>
+    </defs>
+  </g>
+  <g opacity="100%" mask="url(#mask_upz18yzrk5)">
+    <text x="1363" y="41" font-family="Quicksand" font-size="16" fill="#f7ffff" letter-spacing="0" font-weight="normal" font-style="normal">Contac</text>
+    <text x="1363" y="65" font-family="Quicksand" font-size="16" fill="#f7ffff" letter-spacing="0" font-weight="normal" font-style="normal">t</text>
+    <defs>
+      <mask id="mask_upz18yzrk5">
+        <rect x="1363" y="23" width="53" height="24" fill="white"></rect>
+      </mask>
+    </defs>
+  </g>
+  <g opacity="100%">
+    <text x="32" y="132" font-family="Quicksand" font-size="32" fill="#f7ffff" letter-spacing="0" font-weight="600" font-style="normal">Cross-Chain Compatibility</text>
+  </g>
+  <g opacity="100%">
+    <text x="32" y="172" font-family="Quicksand" font-size="16" fill="#f7ffff" letter-spacing="0" font-weight="normal" font-style="normal">Ensures lower gas fees &amp; interoperability across different blockchain ecosystems.</text>
+  </g>
+  <g opacity="100%">
+    <rect x="32.5" y="202.5" width="442" height="115" fill="#161211" stroke="#222224" stroke-width="1" rx="2" filter="url(#filter_dshadow_0_0_0_03030314)"></rect>
+  </g>
+  <g opacity="100%">
+    <text x="48" y="238.5" font-family="Quicksand" font-size="18" fill="#f7ffff" letter-spacing="0" font-weight="600" font-style="normal">Multi-Chain Token Bridging</text>
+  </g>
+  <g opacity="100%" mask="url(#mask_izl9bugj8h)">
+    <text x="48" y="272" font-family="Quicksand" font-size="16" fill="#f7ffff" letter-spacing="0" font-weight="normal" font-style="normal">Users can move BST tokens between Ethereum,</text>
+    <text x="48" y="296" font-family="Quicksand" font-size="16" fill="#f7ffff" letter-spacing="0" font-weight="normal" font-style="normal">Polygon, and Solana, enhancing flexibility and user</text>
+    <text x="48" y="320" font-family="Quicksand" font-size="16" fill="#f7ffff" letter-spacing="0" font-weight="normal" font-style="normal">experience.</text>
+    <defs>
+      <mask id="mask_izl9bugj8h">
+        <rect x="48" y="254" width="411" height="48" fill="white"></rect>
+      </mask>
+    </defs>
+  </g>
+  <g opacity="100%">
+    <rect x="498.5" y="202.5" width="442" height="115" fill="#161211" stroke="#222224" stroke-width="1" rx="2" filter="url(#filter_dshadow_0_0_0_03030314)"></rect>
+  </g>
+  <g opacity="100%">
+    <text x="514" y="238.5" font-family="Quicksand" font-size="18" fill="#f7ffff" letter-spacing="0" font-weight="600" font-style="normal">Lower Transaction Costs</text>
+  </g>
+  <g opacity="100%">
+    <text x="514" y="272" font-family="Quicksand" font-size="16" fill="#f7ffff" letter-spacing="0" font-weight="normal" font-style="normal">NFT trading on Polygon avoids Ethereum gas spikes,</text>
+    <text x="514" y="296" font-family="Quicksand" font-size="16" fill="#f7ffff" letter-spacing="0" font-weight="normal" font-style="normal">providing a cost-effective solution for users.</text>
+  </g>
+  <g opacity="100%">
+    <rect x="965.5" y="202.5" width="442" height="115" fill="#161211" stroke="#222224" stroke-width="1" rx="2" filter="url(#filter_dshadow_0_0_0_03030314)"></rect>
+  </g>
+  <g opacity="100%">
+    <text x="981" y="238.5" font-family="Quicksand" font-size="18" fill="#f7ffff" letter-spacing="0" font-weight="600" font-style="normal">Broader Adoption &amp; Global Reach</text>
+  </g>
+  <g opacity="100%">
+    <text x="981" y="272" font-family="Quicksand" font-size="16" fill="#f7ffff" letter-spacing="0" font-weight="normal" font-style="normal">Supports various wallets &amp; blockchain networks,</text>
+    <text x="981" y="296" font-family="Quicksand" font-size="16" fill="#f7ffff" letter-spacing="0" font-weight="normal" font-style="normal">facilitating a wider audience and seamless integration.</text>
+  </g>
+  <g opacity="100%">
+    <rect x="32.5" y="350.5" width="1375" height="311" fill="#161211" stroke="#222224" stroke-width="1" rx="2" filter="url(#filter_dshadow_0_0_0_03030314)"></rect>
+  </g>
+  <g opacity="100%">
+    <text x="56" y="404" font-family="Quicksand" font-size="32" fill="#f7ffff" letter-spacing="0" font-weight="600" font-style="normal">Solidity Smart Contract for Cross-Chain Bridging</text>
+  </g>
+  <g opacity="100%">
+    <rect x="56.5" y="426.5" width="1327" height="211" fill="#161211" stroke="#222224" stroke-width="1" rx="2" filter="url(#filter_dshadow_0_0_0_03030314)"></rect>
+  </g>
+  <g opacity="100%">
+    <text x="72" y="478" font-family="Quicksand" font-size="14" fill="#f7ffff" letter-spacing="0" font-weight="normal" font-style="normal">contract CrossChainBridge { function bridgeTokens(address _token, uint256 _amount)</text>
+    <text x="72" y="498" font-family="Quicksand" font-size="14" fill="#f7ffff" letter-spacing="0" font-weight="normal" font-style="normal">external { require(_amount &gt; 0, &quot;Amount must be greater than zero&quot;); ... } }</text>
+  </g>
+  <g opacity="100%">
+    <rect x="0" y="816" width="1440" height="84" fill="#222224" filter="url(#filter_dshadow_0_0_2_03030314)"></rect>
+  </g>
+  <g opacity="100%" mask="url(#mask_6ecl6hw3uc)">
+    <text x="579" y="863" font-family="Quicksand" font-size="14" fill="#fff" letter-spacing="0" font-weight="normal" font-style="normal">© 2023 Blockchain Solutions. All rights</text>
+    <text x="579" y="883" font-family="Quicksand" font-size="14" fill="#fff" letter-spacing="0" font-weight="normal" font-style="normal">reserved.</text>
+    <defs>
+      <mask id="mask_6ecl6hw3uc">
+        <rect x="579" y="848" width="282" height="20" fill="white"></rect>
+      </mask>
+    </defs>
+  </g>
+  <defs>
+    <filter id="filter_dshadow_0_0_2_03030314" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-opacity="0" result="bg-fix"></feFlood>
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="alpha"></feColorMatrix>
+      <feOffset dx="0" dy="2"></feOffset>
+      <feGaussianBlur stdDeviation="0"></feGaussianBlur>
+      <feComposite in2="alpha" operator="out"></feComposite>
+      <feColorMatrix type="matrix" values="0 0 0 0 0.011764705882352941 0 0 0 0 0.011764705882352941 0 0 0 0 0.011764705882352941 0 0 0 0.08 0"></feColorMatrix>
+      <feBlend mode="normal" in2="bg-fix" result="bg-fix-filter_dshadow_0_0_2_03030314"></feBlend>
+      <feBlend in="SourceGraphic" in2="bg-fix-filter_dshadow_0_0_2_03030314" result="shape"></feBlend>
+    </filter>
+    <filter id="filter_dshadow_0_0_0_000000639c" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-opacity="0" result="bg-fix"></feFlood>
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="alpha"></feColorMatrix>
+      <feOffset dx="0" dy="0"></feOffset>
+      <feGaussianBlur stdDeviation="0"></feGaussianBlur>
+      <feComposite in2="alpha" operator="out"></feComposite>
+      <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 100 0"></feColorMatrix>
+      <feBlend mode="normal" in2="bg-fix" result="bg-fix-filter_dshadow_0_0_0_000000639c"></feBlend>
+      <feBlend in="SourceGraphic" in2="bg-fix-filter_dshadow_0_0_0_000000639c" result="shape"></feBlend>
+    </filter>
+    <filter id="filter_dshadow_0_0_0_03030314" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-opacity="0" result="bg-fix"></feFlood>
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="alpha"></feColorMatrix>
+      <feOffset dx="0" dy="0"></feOffset>
+      <feGaussianBlur stdDeviation="0"></feGaussianBlur>
+      <feComposite in2="alpha" operator="out"></feComposite>
+      <feColorMatrix type="matrix" values="0 0 0 0 0.011764705882352941 0 0 0 0 0.011764705882352941 0 0 0 0 0.011764705882352941 0 0 0 0.08 0"></feColorMatrix>
+      <feBlend mode="normal" in2="bg-fix" result="bg-fix-filter_dshadow_0_0_0_03030314"></feBlend>
+      <feBlend in="SourceGraphic" in2="bg-fix-filter_dshadow_0_0_0_03030314" result="shape"></feBlend>
+    </filter>
+    <style id="google">@import url(https://fonts.googleapis.com/css2?family=Quicksand:ital,wght@0,300;0,400;0,500;0,600;0,700&amp;display=swap);
+</style>
+    <style id="brand"></style>
+  </defs>
+</svg>
