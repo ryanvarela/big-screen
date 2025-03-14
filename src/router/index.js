@@ -50,6 +50,11 @@ import Web3MarketplaceforDigitalMovieCollectibles from '../views/Web3Marketplace
 
 const routes = [
   {
+    path: '/',
+    name: 'Admin-Panel-Dashboard',
+    component: AdminPanelDashboard
+  },
+  {
     path: '/Admin-Panel-Dashboard',
     name: 'Admin-Panel-Dashboard',
     component: AdminPanelDashboard
