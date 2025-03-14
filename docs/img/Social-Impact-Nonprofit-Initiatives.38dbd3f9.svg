@@ -1,0 +1,223 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1440 1296" width="1440" height="1296" fill="none">
+  <rect width="1440" height="1296" fill="#161211"></rect>
+  <g opacity="100%">
+    <rect x="0" y="0" width="1440" height="64" fill="#222224" filter="url(#filter_dshadow_0_0_2_03030314)"></rect>
+  </g>
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" width="27" height="27" fill="#f7ffff" x="24" y="18.5" opacity="100%">
+    <path d="M546.2 9.7c-5.6-12.5-21.6-13-28.3-1.2C486.9 62.4 431.4 96 368 96h-80C182 96 96 182 96 288c0 7 .8 13.7 1.5 20.5C161.3 262.8 253.4 224 384 224c8.8 0 16 7.2 16 16s-7.2 16-16 16C132.6 256 26 410.1 2.4 468c-6.6 16.3 1.2 34.9 17.5 41.6 16.4 6.8 35-1.1 41.8-17.3 1.5-3.6 20.9-47.9 71.9-90.6 32.4 43.9 94 85.8 174.9 77.2C465.5 467.5 576 326.7 576 154.3c0-50.2-10.8-102.2-29.8-144.6z"></path>
+  </svg>
+  <g opacity="100%" mask="url(#mask_zg49e9ex99)">
+    <text x="59" y="38.5" font-family="Quicksand" font-size="18" fill="#f7ffff" letter-spacing="0" font-weight="700" font-style="normal">Social Impact</text>
+    <text x="59" y="66.5" font-family="Quicksand" font-size="18" fill="#f7ffff" letter-spacing="0" font-weight="700" font-style="normal">Initiatives</text>
+    <defs>
+      <mask id="mask_zg49e9ex99">
+        <rect x="59" y="18" width="191" height="28" fill="white"></rect>
+      </mask>
+    </defs>
+  </g>
+  <g opacity="100%" mask="url(#mask_b1y0jyatue)">
+    <text x="1099" y="37" font-family="Quicksand" font-size="14" fill="#f7ffff" letter-spacing="0" font-weight="500" font-style="normal">Impac</text>
+    <text x="1099" y="57" font-family="Quicksand" font-size="14" fill="#f7ffff" letter-spacing="0" font-weight="500" font-style="normal">t</text>
+    <defs>
+      <mask id="mask_b1y0jyatue">
+        <rect x="1099" y="22" width="41" height="20" fill="white"></rect>
+      </mask>
+    </defs>
+  </g>
+  <g opacity="100%" mask="url(#mask_c295skqtzm)">
+    <text x="1164" y="37" font-family="Quicksand" font-size="14" fill="#f7ffff" letter-spacing="0" font-weight="500" font-style="normal">Dashboa</text>
+    <text x="1164" y="57" font-family="Quicksand" font-size="14" fill="#f7ffff" letter-spacing="0" font-weight="500" font-style="normal">rd</text>
+    <defs>
+      <mask id="mask_c295skqtzm">
+        <rect x="1164" y="22" width="64" height="20" fill="white"></rect>
+      </mask>
+    </defs>
+  </g>
+  <g opacity="100%" mask="url(#mask_148wdcd8ng)">
+    <text x="1251" y="37" font-family="Quicksand" font-size="14" fill="#f7ffff" letter-spacing="0" font-weight="500" font-style="normal">Leaderboa</text>
+    <text x="1251" y="57" font-family="Quicksand" font-size="14" fill="#f7ffff" letter-spacing="0" font-weight="500" font-style="normal">rd</text>
+    <defs>
+      <mask id="mask_148wdcd8ng">
+        <rect x="1251" y="22" width="75" height="20" fill="white"></rect>
+      </mask>
+    </defs>
+  </g>
+  <g opacity="100%" mask="url(#mask_maolw2miv)">
+    <text x="1350" y="37" font-family="Quicksand" font-size="14" fill="#f7ffff" letter-spacing="0" font-weight="500" font-style="normal">Campaig</text>
+    <text x="1350" y="57" font-family="Quicksand" font-size="14" fill="#f7ffff" letter-spacing="0" font-weight="500" font-style="normal">ns</text>
+    <defs>
+      <mask id="mask_maolw2miv">
+        <rect x="1350" y="22" width="66" height="20" fill="white"></rect>
+      </mask>
+    </defs>
+  </g>
+  <g opacity="100%">
+    <rect x="32.5" y="88.5" width="1375" height="111" fill="#161211" stroke="#222224" stroke-width="1" rx="2" filter="url(#filter_dshadow_0_0_0_03030314)"></rect>
+  </g>
+  <g opacity="100%">
+    <text x="56" y="132.5" font-family="Quicksand" font-size="18" fill="#f7ffff" letter-spacing="0" font-weight="600" font-style="normal">🌍 Tree Planting Per Ticket Purchase</text>
+  </g>
+  <g opacity="100%">
+    <text x="56" y="171" font-family="Quicksand" font-size="14" fill="#f7ffff" letter-spacing="0" font-weight="normal" font-style="normal">Every movie ticket purchased contributes to planting a tree, helping mitigate carbon footprint and contributing to reforestation efforts globally. The initiative aims to plant over 100,000 trees annually.</text>
+  </g>
+  <g opacity="100%">
+    <rect x="32.5" y="224.5" width="1375" height="287" fill="#161211" stroke="#222224" stroke-width="1" rx="2" filter="url(#filter_dshadow_0_0_0_03030314)"></rect>
+  </g>
+  <g opacity="100%">
+    <text x="56" y="268.5" font-family="Quicksand" font-size="18" fill="#f7ffff" letter-spacing="0" font-weight="600" font-style="normal">📊 Nonprofit Impact Dashboard</text>
+  </g>
+  <g opacity="100%" mask="url(#mask_7m9h0tgp8s)">
+    <text x="56" y="307" font-family="Quicksand" font-size="14" fill="#f7ffff" letter-spacing="0" font-weight="normal" font-style="normal">Our dashboard provides real-time tracking of total donations and the progress of social projects funded through community support. Users can view detailed graphs and statistics to see the impact of their</text>
+    <text x="56" y="327" font-family="Quicksand" font-size="14" fill="#f7ffff" letter-spacing="0" font-weight="normal" font-style="normal">contributions.</text>
+    <defs>
+      <mask id="mask_7m9h0tgp8s">
+        <rect x="56" y="292" width="1328" height="20" fill="white"></rect>
+      </mask>
+    </defs>
+  </g>
+  <g opacity="100%" filter="url(#filter_dshadow_0_0_0_03030314)">
+    <rect x="56" y="328" width="160" height="160" rx="0" fill="url(#image-pattern-f68c5a3c-5c52-49a1-902b-f73727428fc2)"></rect>
+    <defs>
+      <pattern id="image-pattern-f68c5a3c-5c52-49a1-902b-f73727428fc2" patternContentUnits="objectBoundingBox" width="1" height="1">
+        <use href="#image_https://assets.api.uizard.io/api/cdn/stream/eece810d-8137-4fb5-844a-1eca6a4c0ed0.png" transform="matrix(0.00625 0 0 0.00625 0 0)"></use>
+      </pattern>
+    </defs>
+  </g>
+  <g opacity="100%" filter="url(#filter_dshadow_0_0_0_03030314)">
+    <rect x="232" y="328" width="160" height="160" rx="0" fill="url(#image-pattern-6554b55f-37f6-4492-88c3-438f99f2119b)"></rect>
+    <defs>
+      <pattern id="image-pattern-6554b55f-37f6-4492-88c3-438f99f2119b" patternContentUnits="objectBoundingBox" width="1" height="1">
+        <use href="#image_https://assets.api.uizard.io/api/cdn/stream/ae3c0224-7202-4266-84aa-224260052d19.png" transform="matrix(0.00625 0 0 0.00625 0 0)"></use>
+      </pattern>
+    </defs>
+  </g>
+  <g opacity="100%">
+    <rect x="32.5" y="536.5" width="1375" height="167" fill="#161211" stroke="#222224" stroke-width="1" rx="2" filter="url(#filter_dshadow_0_0_0_03030314)"></rect>
+  </g>
+  <g opacity="100%">
+    <text x="56" y="580.5" font-family="Quicksand" font-size="18" fill="#f7ffff" letter-spacing="0" font-weight="600" font-style="normal">🏆 Social Engagement Leaderboard</text>
+  </g>
+  <g opacity="100%" mask="url(#mask_dxmizuz97)">
+    <text x="56" y="619" font-family="Quicksand" font-size="14" fill="#f7ffff" letter-spacing="0" font-weight="normal" font-style="normal">Emily</text>
+    <text x="56" y="639" font-family="Quicksand" font-size="14" fill="#f7ffff" letter-spacing="0" font-weight="normal" font-style="normal">Green</text>
+    <defs>
+      <mask id="mask_dxmizuz97">
+        <rect x="56" y="604" width="71" height="20" fill="white"></rect>
+      </mask>
+    </defs>
+  </g>
+  <g opacity="100%" mask="url(#mask_lc6fs3vein)">
+    <text x="1169" y="619" font-family="Quicksand" font-size="14" fill="#f7ffff" letter-spacing="0" font-weight="normal" font-style="normal">Badge: 🌟 Environmental</text>
+    <text x="1169" y="639" font-family="Quicksand" font-size="14" fill="#f7ffff" letter-spacing="0" font-weight="normal" font-style="normal">Champion</text>
+    <defs>
+      <mask id="mask_lc6fs3vein">
+        <rect x="1169" y="604" width="215" height="20" fill="white"></rect>
+      </mask>
+    </defs>
+  </g>
+  <g opacity="100%" mask="url(#mask_jwbkb7qig6)">
+    <text x="56" y="647" font-family="Quicksand" font-size="14" fill="#f7ffff" letter-spacing="0" font-weight="normal" font-style="normal">Marcus</text>
+    <text x="56" y="667" font-family="Quicksand" font-size="14" fill="#f7ffff" letter-spacing="0" font-weight="normal" font-style="normal">Lee</text>
+    <defs>
+      <mask id="mask_jwbkb7qig6">
+        <rect x="56" y="632" width="66" height="20" fill="white"></rect>
+      </mask>
+    </defs>
+  </g>
+  <g opacity="100%" mask="url(#mask_u0ok0hao1m)">
+    <text x="1194" y="647" font-family="Quicksand" font-size="14" fill="#f7ffff" letter-spacing="0" font-weight="normal" font-style="normal">Badge: 🏅 Philanthropy</text>
+    <text x="1194" y="667" font-family="Quicksand" font-size="14" fill="#f7ffff" letter-spacing="0" font-weight="normal" font-style="normal">Pioneer</text>
+    <defs>
+      <mask id="mask_u0ok0hao1m">
+        <rect x="1194" y="632" width="190" height="20" fill="white"></rect>
+      </mask>
+    </defs>
+  </g>
+  <g opacity="100%" mask="url(#mask_zy8o31chbl)">
+    <text x="56" y="675" font-family="Quicksand" font-size="14" fill="#f7ffff" letter-spacing="0" font-weight="normal" font-style="normal">Sophia</text>
+    <text x="56" y="695" font-family="Quicksand" font-size="14" fill="#f7ffff" letter-spacing="0" font-weight="normal" font-style="normal">Turner</text>
+    <defs>
+      <mask id="mask_zy8o31chbl">
+        <rect x="56" y="660" width="83" height="20" fill="white"></rect>
+      </mask>
+    </defs>
+  </g>
+  <g opacity="100%" mask="url(#mask_drqf4d6kvo)">
+    <text x="1209" y="675" font-family="Quicksand" font-size="14" fill="#f7ffff" letter-spacing="0" font-weight="normal" font-style="normal">Badge: 🌍 Global</text>
+    <text x="1209" y="695" font-family="Quicksand" font-size="14" fill="#f7ffff" letter-spacing="0" font-weight="normal" font-style="normal">Contributor</text>
+    <defs>
+      <mask id="mask_drqf4d6kvo">
+        <rect x="1209" y="660" width="175" height="20" fill="white"></rect>
+      </mask>
+    </defs>
+  </g>
+  <g opacity="100%">
+    <rect x="32.5" y="728.5" width="1375" height="111" fill="#161211" stroke="#222224" stroke-width="1" rx="2" filter="url(#filter_dshadow_0_0_0_03030314)"></rect>
+  </g>
+  <g opacity="100%">
+    <text x="56" y="772.5" font-family="Quicksand" font-size="18" fill="#f7ffff" letter-spacing="0" font-weight="600" font-style="normal">🎭 AI-Powered Philanthropy Features</text>
+  </g>
+  <g opacity="100%">
+    <text x="56" y="811" font-family="Quicksand" font-size="14" fill="#f7ffff" letter-spacing="0" font-weight="normal" font-style="normal">Discover innovative movie campaigns that directly support real-world projects. Our AI-driven platform ensures that your ticket purchase contributes to meaningful social change.</text>
+  </g>
+  <g opacity="100%">
+    <rect x="32.5" y="864.5" width="1375" height="151" fill="#161211" stroke="#222224" stroke-width="1" rx="2" filter="url(#filter_dshadow_0_0_0_03030314)"></rect>
+  </g>
+  <g opacity="100%">
+    <text x="56" y="908.5" font-family="Quicksand" font-size="18" fill="#f7ffff" letter-spacing="0" font-weight="600" font-style="normal">✅ User-Controlled Impact Fund</text>
+  </g>
+  <g opacity="100%">
+    <text x="56" y="947" font-family="Quicksand" font-size="14" fill="#f7ffff" letter-spacing="0" font-weight="normal" font-style="normal">Choose how BigScreen allocates nonprofit revenue. Engage in decision-making processes to direct funds towards causes that matter most to you.</text>
+  </g>
+  <g opacity="100%">
+    <rect x="56.5" y="968.5" width="47" height="23" fill="#161211" stroke="#9663dd" stroke-width="1" rx="11.5" filter="url(#filter_dshadow_0_0_0_03030314)"></rect>
+    <rect x="60" y="972" width="17" height="16" fill="#9663dd" rx="8"></rect>
+  </g>
+  <g opacity="100%" mask="url(#mask_yckckvgq5)">
+    <text x="120" y="985" font-family="Quicksand" font-size="14" fill="#f7ffff" letter-spacing="0" font-weight="normal" font-style="normal">Enable Fund Allocation</text>
+    <text x="120" y="1005" font-family="Quicksand" font-size="14" fill="#f7ffff" letter-spacing="0" font-weight="normal" font-style="normal">Control</text>
+    <defs>
+      <mask id="mask_yckckvgq5">
+        <rect x="120" y="970" width="182" height="20" fill="white"></rect>
+      </mask>
+    </defs>
+  </g>
+  <defs>
+    <filter id="filter_dshadow_0_0_2_03030314" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-opacity="0" result="bg-fix"></feFlood>
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="alpha"></feColorMatrix>
+      <feOffset dx="0" dy="2"></feOffset>
+      <feGaussianBlur stdDeviation="0"></feGaussianBlur>
+      <feComposite in2="alpha" operator="out"></feComposite>
+      <feColorMatrix type="matrix" values="0 0 0 0 0.011764705882352941 0 0 0 0 0.011764705882352941 0 0 0 0 0.011764705882352941 0 0 0 0.08 0"></feColorMatrix>
+      <feBlend mode="normal" in2="bg-fix" result="bg-fix-filter_dshadow_0_0_2_03030314"></feBlend>
+      <feBlend in="SourceGraphic" in2="bg-fix-filter_dshadow_0_0_2_03030314" result="shape"></feBlend>
+    </filter>
+    <filter id="filter_dshadow_0_0_0_000000639c" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-opacity="0" result="bg-fix"></feFlood>
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="alpha"></feColorMatrix>
+      <feOffset dx="0" dy="0"></feOffset>
+      <feGaussianBlur stdDeviation="0"></feGaussianBlur>
+      <feComposite in2="alpha" operator="out"></feComposite>
+      <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 100 0"></feColorMatrix>
+      <feBlend mode="normal" in2="bg-fix" result="bg-fix-filter_dshadow_0_0_0_000000639c"></feBlend>
+      <feBlend in="SourceGraphic" in2="bg-fix-filter_dshadow_0_0_0_000000639c" result="shape"></feBlend>
+    </filter>
+    <filter id="filter_dshadow_0_0_0_03030314" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-opacity="0" result="bg-fix"></feFlood>
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="alpha"></feColorMatrix>
+      <feOffset dx="0" dy="0"></feOffset>
+      <feGaussianBlur stdDeviation="0"></feGaussianBlur>
+      <feComposite in2="alpha" operator="out"></feComposite>
+      <feColorMatrix type="matrix" values="0 0 0 0 0.011764705882352941 0 0 0 0 0.011764705882352941 0 0 0 0 0.011764705882352941 0 0 0 0.08 0"></feColorMatrix>
+      <feBlend mode="normal" in2="bg-fix" result="bg-fix-filter_dshadow_0_0_0_03030314"></feBlend>
+      <feBlend in="SourceGraphic" in2="bg-fix-filter_dshadow_0_0_0_03030314" result="shape"></feBlend>
+    </filter>
+    <style id="google">@import url(https://fonts.googleapis.com/css2?family=Quicksand:ital,wght@0,300;0,400;0,500;0,600;0,700&amp;display=swap);
+</style>
+    <style id="brand"></style>
+    <image id="image_https://assets.api.uizard.io/api/cdn/stream/ae3c0224-7202-4266-84aa-224260052d19.png" width="160" height="160" href="data:image/png;base64,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"></image>
+    <image id="image_https://assets.api.uizard.io/api/cdn/stream/eece810d-8137-4fb5-844a-1eca6a4c0ed0.png" width="160" height="160" href="data:image/png;base64,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"></image>
+  </defs>
+</svg>
