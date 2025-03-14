@@ -1,0 +1,262 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1440 1252" width="1440" height="1252" fill="none">
+  <rect width="1440" height="1252" fill="#161211"></rect>
+  <g opacity="100%">
+    <rect x="0" y="0" width="1440" height="64" fill="#222224" filter="url(#filter_dshadow_0_0_2_03030314)"></rect>
+  </g>
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="24" height="24" fill="#f7ffff" x="32" y="20" opacity="100%">
+    <path d="M466.5 83.7l-192-80a48.15 48.15 0 0 0-36.9 0l-192 80C27.7 91.1 16 108.6 16 128c0 198.5 114.5 335.7 221.5 380.3 11.8 4.9 25.1 4.9 36.9 0C360.1 472.6 496 349.3 496 128c0-19.4-11.7-36.9-29.5-44.3zM256.1 446.3l-.1-381 175.9 73.3c-3.3 151.4-82.1 261.1-175.8 307.7z"></path>
+  </svg>
+  <g opacity="100%" mask="url(#mask_yayn1l60x7l)">
+    <text x="68" y="39.5" font-family="Quicksand" font-size="20" fill="#f7ffff" letter-spacing="0" font-weight="700" font-style="normal">Security &amp; Privacy</text>
+    <text x="68" y="67.5" font-family="Quicksand" font-size="20" fill="#f7ffff" letter-spacing="0" font-weight="700" font-style="normal">Hub</text>
+    <defs>
+      <mask id="mask_yayn1l60x7l">
+        <rect x="68" y="18" width="202" height="28" fill="white"></rect>
+      </mask>
+    </defs>
+  </g>
+  <g opacity="100%" mask="url(#mask_216msszuie)">
+    <text x="1181" y="38.5" font-family="Quicksand" font-size="18" fill="#f7ffff" letter-spacing="0" font-weight="500" font-style="normal">Dashboa</text>
+    <text x="1181" y="66.5" font-family="Quicksand" font-size="18" fill="#f7ffff" letter-spacing="0" font-weight="500" font-style="normal">rd</text>
+    <defs>
+      <mask id="mask_216msszuie">
+        <rect x="1181" y="18" width="83" height="28" fill="white"></rect>
+      </mask>
+    </defs>
+  </g>
+  <g opacity="100%" mask="url(#mask_mxvr5voi07)">
+    <text x="1287" y="38.5" font-family="Quicksand" font-size="18" fill="#f7ffff" letter-spacing="0" font-weight="500" font-style="normal">Setting</text>
+    <text x="1287" y="66.5" font-family="Quicksand" font-size="18" fill="#f7ffff" letter-spacing="0" font-weight="500" font-style="normal">s</text>
+    <defs>
+      <mask id="mask_mxvr5voi07">
+        <rect x="1287" y="18" width="62" height="28" fill="white"></rect>
+      </mask>
+    </defs>
+  </g>
+  <g opacity="100%" mask="url(#mask_82a0svgve)">
+    <text x="1372" y="38.5" font-family="Quicksand" font-size="18" fill="#f7ffff" letter-spacing="0" font-weight="500" font-style="normal">Hel</text>
+    <text x="1372" y="66.5" font-family="Quicksand" font-size="18" fill="#f7ffff" letter-spacing="0" font-weight="500" font-style="normal">p</text>
+    <defs>
+      <mask id="mask_82a0svgve">
+        <rect x="1372" y="18" width="36" height="28" fill="white"></rect>
+      </mask>
+    </defs>
+  </g>
+  <g opacity="100%">
+    <rect x="0.5" y="64.5" width="1439" height="1135" fill="#161211" stroke="#222224" stroke-width="1" rx="0" filter="url(#filter_dshadow_0_0_0_03030314)"></rect>
+  </g>
+  <g opacity="100%">
+    <rect x="32.5" y="96.5" width="1375" height="163" fill="#161211" stroke="#222224" stroke-width="1" rx="2" filter="url(#filter_dshadow_0_0_0_03030314)"></rect>
+  </g>
+  <g opacity="100%">
+    <text x="56" y="150" font-family="Quicksand" font-size="32" fill="#f7ffff" letter-spacing="0" font-weight="600" font-style="normal">🔒 Security Settings</text>
+  </g>
+  <g opacity="100%" mask="url(#mask_jxzsb4tg)">
+    <text x="56" y="190" font-family="Quicksand" font-size="16" fill="#f7ffff" letter-spacing="0" font-weight="normal" font-style="normal">Two-factor Authentication</text>
+    <text x="56" y="214" font-family="Quicksand" font-size="16" fill="#f7ffff" letter-spacing="0" font-weight="normal" font-style="normal">(2FA)</text>
+    <defs>
+      <mask id="mask_jxzsb4tg">
+        <rect x="56" y="172" width="212" height="24" fill="white"></rect>
+      </mask>
+    </defs>
+  </g>
+  <g opacity="100%">
+    <rect x="1336.5" y="172.5" width="47" height="23" fill="#161211" stroke="#9663dd" stroke-width="1" rx="11.5" filter="url(#filter_dshadow_0_0_0_03030314)"></rect>
+    <rect x="1340" y="176" width="17" height="16" fill="#9663dd" rx="8"></rect>
+  </g>
+  <g opacity="100%" mask="url(#mask_kau7kxu85v)">
+    <text x="56" y="230" font-family="Quicksand" font-size="16" fill="#f7ffff" letter-spacing="0" font-weight="normal" font-style="normal">Blockchain-based Identity</text>
+    <text x="56" y="254" font-family="Quicksand" font-size="16" fill="#f7ffff" letter-spacing="0" font-weight="normal" font-style="normal">Verification</text>
+    <defs>
+      <mask id="mask_kau7kxu85v">
+        <rect x="56" y="212" width="254" height="24" fill="white"></rect>
+      </mask>
+    </defs>
+  </g>
+  <g opacity="100%">
+    <rect x="1336.5" y="212.5" width="47" height="23" fill="#161211" stroke="#9663dd" stroke-width="1" rx="11.5" filter="url(#filter_dshadow_0_0_0_03030314)"></rect>
+    <rect x="1340" y="216" width="17" height="16" fill="#9663dd" rx="8"></rect>
+  </g>
+  <g opacity="100%">
+    <rect x="32.5" y="292.5" width="1375" height="277" fill="#161211" stroke="#222224" stroke-width="1" rx="2" filter="url(#filter_dshadow_0_0_0_03030314)"></rect>
+  </g>
+  <g opacity="100%">
+    <text x="56" y="346" font-family="Quicksand" font-size="32" fill="#f7ffff" letter-spacing="0" font-weight="600" font-style="normal">📜 Privacy Controls</text>
+  </g>
+  <g opacity="100%" mask="url(#mask_n2c3mmfo39)">
+    <text x="56" y="386" font-family="Quicksand" font-size="16" fill="#f7ffff" letter-spacing="0" font-weight="normal" font-style="normal">GDPR</text>
+    <text x="56" y="410" font-family="Quicksand" font-size="16" fill="#f7ffff" letter-spacing="0" font-weight="normal" font-style="normal">Compliance</text>
+    <defs>
+      <mask id="mask_n2c3mmfo39">
+        <rect x="56" y="368" width="121" height="24" fill="white"></rect>
+      </mask>
+    </defs>
+  </g>
+  <g opacity="100%">
+    <rect x="1364.5" y="370.5" width="19" height="19" fill="#161211" stroke="#9663dd" stroke-width="1" rx="2" filter="url(#filter_dshadow_0_0_0_00000014)"></rect>
+  </g>
+  <g opacity="100%" mask="url(#mask_f8k6ceg63)">
+    <text x="56" y="432" font-family="Quicksand" font-size="16" fill="#f7ffff" letter-spacing="0" font-weight="normal" font-style="normal">Data Deletion</text>
+    <text x="56" y="456" font-family="Quicksand" font-size="16" fill="#f7ffff" letter-spacing="0" font-weight="normal" font-style="normal">Requests</text>
+    <defs>
+      <mask id="mask_f8k6ceg63">
+        <rect x="56" y="414" width="155" height="24" fill="white"></rect>
+      </mask>
+    </defs>
+  </g>
+  <g opacity="100%">
+    <rect filter="url(#filter_dshadow_0_0_0_03030314)" x="1246" y="408" width="138" height="36" fill="#9663dd" rx="2"></rect>
+    <text x="1257" y="431" font-family="Quicksand" font-size="14" fill="#0e0e0c" letter-spacing="0" font-weight="700" font-style="normal">
+      <tspan>Request Deletion</tspan>
+    </text>
+  </g>
+  <g opacity="100%" mask="url(#mask_0u8f7anxih)">
+    <text x="56" y="480" font-family="Quicksand" font-size="16" fill="#f7ffff" letter-spacing="0" font-weight="normal" font-style="normal">AI-driven Content</text>
+    <text x="56" y="504" font-family="Quicksand" font-size="16" fill="#f7ffff" letter-spacing="0" font-weight="normal" font-style="normal">Filtering</text>
+    <defs>
+      <mask id="mask_0u8f7anxih">
+        <rect x="56" y="462" width="176" height="20" fill="white"></rect>
+      </mask>
+    </defs>
+  </g>
+  <g opacity="100%">
+    <text x="56" y="507" font-family="Quicksand" font-size="14" fill="#f7ffff" letter-spacing="0" font-weight="normal" font-style="normal">Enable to automatically filter inappropriate content using AI technologies.</text>
+  </g>
+  <g opacity="100%">
+    <rect x="56.5" y="520.5" width="19" height="19" fill="#161211" stroke="#9663dd" stroke-width="1" rx="2" filter="url(#filter_dshadow_0_0_0_00000014)"></rect>
+  </g>
+  <g opacity="100%">
+    <rect x="32.5" y="602.5" width="1375" height="235" fill="#161211" stroke="#222224" stroke-width="1" rx="2" filter="url(#filter_dshadow_0_0_0_03030314)"></rect>
+  </g>
+  <g opacity="100%">
+    <text x="56" y="656" font-family="Quicksand" font-size="32" fill="#f7ffff" letter-spacing="0" font-weight="600" font-style="normal">🚸 Parental Controls</text>
+  </g>
+  <g opacity="100%" mask="url(#mask_i5pkytw8vd)">
+    <text x="56" y="696" font-family="Quicksand" font-size="16" fill="#f7ffff" letter-spacing="0" font-weight="normal" font-style="normal">Restrict Content for Child</text>
+    <text x="56" y="720" font-family="Quicksand" font-size="16" fill="#f7ffff" letter-spacing="0" font-weight="normal" font-style="normal">Accounts</text>
+    <defs>
+      <mask id="mask_i5pkytw8vd">
+        <rect x="56" y="678" width="232" height="24" fill="white"></rect>
+      </mask>
+    </defs>
+  </g>
+  <g opacity="100%">
+    <rect x="1336.5" y="678.5" width="47" height="23" fill="#161211" stroke="#9663dd" stroke-width="1" rx="11.5" filter="url(#filter_dshadow_0_0_0_03030314)"></rect>
+    <rect x="1340" y="682" width="17" height="16" fill="#9663dd" rx="8"></rect>
+  </g>
+  <g opacity="100%" mask="url(#mask_dgcbdwqtfj)">
+    <text x="56" y="738" font-family="Quicksand" font-size="16" fill="#f7ffff" letter-spacing="0" font-weight="normal" font-style="normal">Track Viewing</text>
+    <text x="56" y="762" font-family="Quicksand" font-size="16" fill="#f7ffff" letter-spacing="0" font-weight="normal" font-style="normal">History</text>
+    <defs>
+      <mask id="mask_dgcbdwqtfj">
+        <rect x="56" y="720" width="144" height="20" fill="white"></rect>
+      </mask>
+    </defs>
+  </g>
+  <g opacity="100%">
+    <text x="56" y="765" font-family="Quicksand" font-size="14" fill="#f7ffff" letter-spacing="0" font-weight="normal" font-style="normal">Monitor and review the content viewed by child accounts.</text>
+  </g>
+  <g opacity="100%">
+    <rect filter="url(#filter_dshadow_0_0_0_03030314)" x="56" y="778" width="110" height="36" fill="#9663dd" rx="2"></rect>
+    <text x="68.5" y="801" font-family="Quicksand" font-size="14" fill="#0e0e0c" letter-spacing="0" font-weight="700" font-style="normal">
+      <tspan>View History</tspan>
+    </text>
+  </g>
+  <g opacity="100%">
+    <rect x="32.5" y="870.5" width="1375" height="297" fill="#161211" stroke="#222224" stroke-width="1" rx="2" filter="url(#filter_dshadow_0_0_0_03030314)"></rect>
+  </g>
+  <g opacity="100%">
+    <text x="56" y="924" font-family="Quicksand" font-size="32" fill="#f7ffff" letter-spacing="0" font-weight="600" font-style="normal">⚠️ Moderation &amp; Content Reporting</text>
+  </g>
+  <g opacity="100%" mask="url(#mask_ijpdh51r1)">
+    <text x="56" y="966" font-family="Quicksand" font-size="16" fill="#f7ffff" letter-spacing="0" font-weight="normal" font-style="normal">AI-powered Toxicity</text>
+    <text x="56" y="990" font-family="Quicksand" font-size="16" fill="#f7ffff" letter-spacing="0" font-weight="normal" font-style="normal">Detection</text>
+    <defs>
+      <mask id="mask_ijpdh51r1">
+        <rect x="56" y="948" width="200" height="20" fill="white"></rect>
+      </mask>
+    </defs>
+  </g>
+  <g opacity="100%">
+    <text x="56" y="993" font-family="Quicksand" font-size="14" fill="#f7ffff" letter-spacing="0" font-weight="normal" font-style="normal">Automatically detect and flag toxic or harmful content using AI.</text>
+  </g>
+  <g opacity="100%">
+    <rect x="56.5" y="1006.5" width="19" height="19" fill="#161211" stroke="#9663dd" stroke-width="1" rx="2" filter="url(#filter_dshadow_0_0_0_00000014)"></rect>
+  </g>
+  <g opacity="100%" mask="url(#mask_n5y4o9i7u)">
+    <text x="56" y="1068" font-family="Quicksand" font-size="16" fill="#f7ffff" letter-spacing="0" font-weight="normal" font-style="normal">Content Flagging</text>
+    <text x="56" y="1092" font-family="Quicksand" font-size="16" fill="#f7ffff" letter-spacing="0" font-weight="normal" font-style="normal">System</text>
+    <defs>
+      <mask id="mask_n5y4o9i7u">
+        <rect x="56" y="1050" width="166" height="20" fill="white"></rect>
+      </mask>
+    </defs>
+  </g>
+  <g opacity="100%">
+    <text x="56" y="1095" font-family="Quicksand" font-size="14" fill="#f7ffff" letter-spacing="0" font-weight="normal" font-style="normal">Enable users to report inappropriate content for review.</text>
+  </g>
+  <g opacity="100%">
+    <rect filter="url(#filter_dshadow_0_0_0_03030314)" x="56" y="1108" width="127" height="36" fill="#9663dd" rx="2"></rect>
+    <text x="67" y="1131" font-family="Quicksand" font-size="14" fill="#0e0e0c" letter-spacing="0" font-weight="700" font-style="normal">
+      <tspan>Report Content</tspan>
+    </text>
+  </g>
+  <g opacity="100%">
+    <rect x="0" y="1200" width="1440" height="52" fill="#222224" filter="url(#filter_dshadow_0_0_2_03030314)"></rect>
+  </g>
+  <g opacity="100%" mask="url(#mask_orzxsixqjm)">
+    <text x="574" y="1231" font-family="Quicksand" font-size="14" fill="#fff" letter-spacing="0" font-weight="normal" font-style="normal">© 2023 Security &amp; Privacy Hub. All rights</text>
+    <text x="574" y="1251" font-family="Quicksand" font-size="14" fill="#fff" letter-spacing="0" font-weight="normal" font-style="normal">reserved.</text>
+    <defs>
+      <mask id="mask_orzxsixqjm">
+        <rect x="574" y="1216" width="291" height="20" fill="white"></rect>
+      </mask>
+    </defs>
+  </g>
+  <defs>
+    <filter id="filter_dshadow_0_0_2_03030314" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-opacity="0" result="bg-fix"></feFlood>
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="alpha"></feColorMatrix>
+      <feOffset dx="0" dy="2"></feOffset>
+      <feGaussianBlur stdDeviation="0"></feGaussianBlur>
+      <feComposite in2="alpha" operator="out"></feComposite>
+      <feColorMatrix type="matrix" values="0 0 0 0 0.011764705882352941 0 0 0 0 0.011764705882352941 0 0 0 0 0.011764705882352941 0 0 0 0.08 0"></feColorMatrix>
+      <feBlend mode="normal" in2="bg-fix" result="bg-fix-filter_dshadow_0_0_2_03030314"></feBlend>
+      <feBlend in="SourceGraphic" in2="bg-fix-filter_dshadow_0_0_2_03030314" result="shape"></feBlend>
+    </filter>
+    <filter id="filter_dshadow_0_0_0_000000639c" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-opacity="0" result="bg-fix"></feFlood>
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="alpha"></feColorMatrix>
+      <feOffset dx="0" dy="0"></feOffset>
+      <feGaussianBlur stdDeviation="0"></feGaussianBlur>
+      <feComposite in2="alpha" operator="out"></feComposite>
+      <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 100 0"></feColorMatrix>
+      <feBlend mode="normal" in2="bg-fix" result="bg-fix-filter_dshadow_0_0_0_000000639c"></feBlend>
+      <feBlend in="SourceGraphic" in2="bg-fix-filter_dshadow_0_0_0_000000639c" result="shape"></feBlend>
+    </filter>
+    <filter id="filter_dshadow_0_0_0_03030314" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-opacity="0" result="bg-fix"></feFlood>
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="alpha"></feColorMatrix>
+      <feOffset dx="0" dy="0"></feOffset>
+      <feGaussianBlur stdDeviation="0"></feGaussianBlur>
+      <feComposite in2="alpha" operator="out"></feComposite>
+      <feColorMatrix type="matrix" values="0 0 0 0 0.011764705882352941 0 0 0 0 0.011764705882352941 0 0 0 0 0.011764705882352941 0 0 0 0.08 0"></feColorMatrix>
+      <feBlend mode="normal" in2="bg-fix" result="bg-fix-filter_dshadow_0_0_0_03030314"></feBlend>
+      <feBlend in="SourceGraphic" in2="bg-fix-filter_dshadow_0_0_0_03030314" result="shape"></feBlend>
+    </filter>
+    <filter id="filter_dshadow_0_0_0_00000014" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-opacity="0" result="bg-fix"></feFlood>
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="alpha"></feColorMatrix>
+      <feOffset dx="0" dy="0"></feOffset>
+      <feGaussianBlur stdDeviation="0"></feGaussianBlur>
+      <feComposite in2="alpha" operator="out"></feComposite>
+      <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.08 0"></feColorMatrix>
+      <feBlend mode="normal" in2="bg-fix" result="bg-fix-filter_dshadow_0_0_0_00000014"></feBlend>
+      <feBlend in="SourceGraphic" in2="bg-fix-filter_dshadow_0_0_0_00000014" result="shape"></feBlend>
+    </filter>
+    <style id="google">@import url(https://fonts.googleapis.com/css2?family=Quicksand:ital,wght@0,300;0,400;0,500;0,600;0,700&amp;display=swap);
+</style>
+    <style id="brand"></style>
+  </defs>
+</svg>
